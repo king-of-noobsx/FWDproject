@@ -4,7 +4,7 @@
 
 ** [Introduction] **
 
-**The Previous version - 2.0.0 -**
+**The Previous version - 2.0.0 -** <br>
 After reading Udacity's Rules and Udacity reviewers feedbacks I compeletely changed my project.
 
 # ** Fixes **
