@@ -23,9 +23,9 @@ After reading Udacity's Rules and Udacity reviewers feedbacks I compeletely chan
 ## files
 
 ---
-1 - css : contains style css file .
-2 - js : contains the JavaScript file .
-3 - index.html : the index of the project .
+1 - css : contains style css file .<br>
+2 - js : contains the JavaScript file .<br>
+3 - index.html : the index of the project .<br>
 5 - README.md : my readme file .
 
 ## How i coded the project
