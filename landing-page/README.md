@@ -8,7 +8,7 @@
 After reading Udacity's Rules and Udacity reviewers feedbacks I compeletely changed my project.
 
 # ** Fixes **
-1 - I used the original code that comes with the temp . 
+1 - I used the original code that comes with the temp .<br> 
 2 - I wrote everything by my self .
 
 ## References that I have used
